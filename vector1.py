@@ -8,6 +8,6 @@ for  i in range(0,len(vector)):
      for j in range(0,len(aux)):
           baux.append(aux[j])
 
-print(baux)
+print("datos del afiliado",baux)
      
            
