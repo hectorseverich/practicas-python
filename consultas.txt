@@ -1,0 +1,57 @@
+﻿--- Consulta recibida 2025-08-16 22:36:12.020381 ---
+estado: esperando_descripcion
+opcion: Presupuesto
+nombre: Luis Mogro
+direccion: Av. Siempre Viva 123
+descripcion: Necesito una instalación eléctrica
+
+--- Consulta recibida 2025-08-16 22:37:21.260341 ---
+estado: esperando_descripcion
+opcion: Presupuesto
+nombre: Luis Mogro
+direccion: Av. Siempre Viva 123
+descripcion: Necesito una instalación eléctrica
+
+--- Consulta recibida 2025-08-16 22:37:48.514900 ---
+estado: esperando_descripcion
+opcion: Presupuesto
+nombre: Luis Mogro
+direccion: Av. Siempre Viva 123
+descripcion: Necesito una instalación eléctrica
+
+--- Consulta recibida 2025-08-16 22:39:53.075024 ---
+estado: esperando_descripcion
+opcion: Presupuesto
+nombre: Luis Mogro
+direccion: Av. Siempre Viva 123
+descripcion: Necesito una instalación eléctrica
+
+--- Consulta recibida 2025-08-16 22:41:49.809701 ---
+estado: esperando_descripcion
+opcion: Presupuesto
+nombre: Luis Mogro
+direccion: Av. Siempre Viva 123
+descripcion: Necesito una instalación eléctrica
+
+--- Consulta recibida 2025-08-16 22:45:37.728737 ---
+estado: esperando_descripcion
+opcion: Presupuesto
+nombre: Luis Mogro
+direccion: Av. Siempre Viva 123
+descripcion: Necesito una instalación eléctrica
+
+--- Consulta recibida 2025-08-16 23:10:03.191557 ---
+estado: esperando_descripcion
+opcion: Presupuesto
+nombre: mariela
+direccion: jose hernandez 639
+descripcion: Necesito una instalación eléctrica
+
+
+--- Consulta recibida 2025-08-18 11:49:14.516009 ---
+estado: esperando_descripcion
+opcion: Presupuesto
+nombre: Luis Mogro
+direccion: Av. Siempre Viva 123
+descripcion: Necesito una instalación eléctrica
+
